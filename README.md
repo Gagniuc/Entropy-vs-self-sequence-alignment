@@ -1,5 +1,5 @@
 # Entropy vs self sequence alignment
-Entropy vs self sequence alignment (aka INFORMATION ENTROPY)...
+Entropy vs self sequence alignment (aka INFORMATION ENTROPY)....
 
 # Live demo
 https://gagniuc.github.io/Entropy-vs-self-sequence-alignment/

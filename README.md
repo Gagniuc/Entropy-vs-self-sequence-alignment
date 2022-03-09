@@ -1,6 +1,20 @@
 # Entropy vs self sequence alignment
 Entropy vs self sequence alignment (aka INFORMATION ENTROPY)....
 
+Information entropy (IE) and Information content (IC) are two methods that
+quantitatively measure information.
+Information entropy provides
+a measure of the average amount of information that is needed to represent an
+event drawn from a probability distribution for a random variable
+the results provided by information entropy are compared in parallel with
+the results provided by the information content model (self-sequence alignment),
+
+This comparison is made to highlight the
+qualitative differences between information entropy and the new method of
+information content described as a primary source in this work
+
+
+
 # Live demo
 https://gagniuc.github.io/Entropy-vs-self-sequence-alignment/
 

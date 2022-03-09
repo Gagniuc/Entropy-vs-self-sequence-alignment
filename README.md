@@ -6,7 +6,7 @@
 var z = "AAAAAACAGGTGAGTAAAAAAAA";
 ```
 
-Thus, this comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>.
+Thus, this comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>. Below, the black line represents the Shannon Entropy and the red line represents the information content over the <i>z</i> sequence.
 
 # Live demo
 
@@ -15,8 +15,6 @@ https://gagniuc.github.io/Entropy-vs-self-sequence-alignment/
 # Screenshot
 
 <kbd><img src="https://github.com/Gagniuc/Entropy-vs-self-sequence-alignment/blob/main/Entropy%20vs%20self%20sequence%20alignment.png" /></kbd>
-
-Below, the black line represents the Shannon Entropy and the red line represents the information content over the <i>z</i> sequence.
 
 # References
 

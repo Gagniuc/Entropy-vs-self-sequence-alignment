@@ -1,6 +1,6 @@
 # Entropy vs self sequence alignment
 
-<i>Entropy vs self sequence alignment</i> which makes a comparison between two methods, namely between Shanon entropy (Information entropy (IE)) and self-sequence alignment (Information content (IC)). Information entropy (IE) and Information content (IC) are two methods that quantitatively measure information. Thus, this comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in [this work](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
+<i>Entropy vs self sequence alignment</i> which makes a comparison between two methods, namely between Shanon entropy (Information entropy (IE)) and self-sequence alignment (Information content (IC)). Information entropy (IE) and Information content (IC) are two methods that quantitatively measure information. Thus, this comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>.
 
 # Live demo
 
